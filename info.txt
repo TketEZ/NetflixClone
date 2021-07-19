@@ -1,0 +1,8 @@
+API key
+382c9fb5c6bf79a3cc671288783a8242
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=382c9fb5c6bf79a3cc671288783a8242
+
+tutorial
+https://www.youtube.com/watch?v=XtMThy8QKqU&ab_channel=CleverProgrammer
