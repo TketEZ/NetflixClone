@@ -5,3 +5,10 @@ Clone of Netflix Website.
 - NPM
 - React
 - Firebase hosting
+
+# Usage
+
+In the directory:
+- npm init
+- npm install 
+- npm start
